@@ -1,1 +1,1 @@
-This is a script to display current directory contents including hidden files in the long format
+This script displays contents in long format, with user and group IDs displayed numerically and hidden files
