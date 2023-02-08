@@ -1,1 +1,1 @@
-Create a file in the /tmp directory
+Create a symbolic link
