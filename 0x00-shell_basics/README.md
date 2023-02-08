@@ -1,1 +1,1 @@
-A script to delete directory frm /tmp directory
+A script to change current directory to the previous one
