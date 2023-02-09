@@ -1,1 +1,1 @@
-Copy files that do not exist in the parent working directory
+Move files beginning with an uppercase letter to the directory /tmp/u
