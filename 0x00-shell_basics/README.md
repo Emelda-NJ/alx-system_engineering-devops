@@ -1,1 +1,1 @@
-List all files of a current directory separated with a comma
+This is a magic file
