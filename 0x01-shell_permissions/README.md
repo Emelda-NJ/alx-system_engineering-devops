@@ -1,1 +1,1 @@
-Multiple permissions
+Permission to Everybody
