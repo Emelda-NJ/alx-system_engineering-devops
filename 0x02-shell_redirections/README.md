@@ -1,1 +1,1 @@
-What about two files
+Last lines of a file
